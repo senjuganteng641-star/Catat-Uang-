@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Catat Uang — Keuangan Pribadi",
+  "short_name": "Catat Uang",
+  "description": "Catat anggaran, transaksi harian, utang piutang, dan keuangan keluarga.",
+  "lang": "id-ID",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#166534",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
